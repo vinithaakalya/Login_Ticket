@@ -1,0 +1,5 @@
+<Locators>
+<Locator title="selectTitle">
+    <xpath>name == 'Check#'</xpath>
+</Locator>
+</Locators>

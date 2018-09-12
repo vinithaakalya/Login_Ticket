@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Newfile">
+<Locators>
+    <Locator title="loginbtn">
+        <xpath>/html/body/header/div/nav[2]/div/ul[2]/li[3]/a</xpath>
+    </Locator>
+    <Locator title="registerbtn">
+        <xpath>//*[@id="login"]/form/p/a</xpath>
+    </Locator>
+
+    <Locator title="nameRegfield">
+        <xpath>//*[@id="register"]/form/div[1]/input</xpath>
+    </Locator>
+    <Locator title="EmailRegfield">
+        <xpath>//*[@id="register"]/form/div[2]/input</xpath>
+    </Locator>
+    <Locator title="passwordRegfield">
+        <xpath>//*[@id="js-password-register"]</xpath>
+    </Locator>
+    <Locator title="passwordConform">
+        <xpath>//*[@id="js-password-confirm-register"]</xpath>
+    </Locator>
+    <Locator title="registrButton">
+        <xpath>//*[@id="js-btn-register"]</xpath>
+    </Locator>
+    <Locator title="scrollBtn">
+        <xpath>/html/body/header/div/nav[2]/div/ul[2]/li[3]/a/span/i</xpath>
+    </Locator>
+    <Locator title="logOutBtn">
+        <xpath>/html/body/header/div/nav[2]/div/ul[2]/li[3]/ul/li[8]/a</xpath>
+    </Locator>
+    <Locator title="EmailLogin">
+        <xpath>//*[@id="login"]/form/div[1]/input</xpath>
+    </Locator>
+    <Locator title="passwordLgn">
+        <xpath>//*[@id="js-password-login"]</xpath>
+    </Locator>
+    <Locator title="logBtn">
+        <xpath>//*[@id="js-btn-login"]</xpath>
+    </Locator>
+</Locators>
+</suite>

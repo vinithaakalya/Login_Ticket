@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Path to Chrome Driver is set<br>]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Logged into the website<br>]]>
+    </line>
+    <line>
+      <![CDATA[Username and Password is taken from the property file<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Registered<br>]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Logged into the website<br>]]>
+    </line>
+    <line>
+      <![CDATA[Username and Password is taken from the property file<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Logged in<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[Successfully LoggedOut<br>]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Logged into the website<br>]]>
+    </line>
+    <line>
+      <![CDATA[Username and Password is taken from the property file<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[webElement is generated<br>]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Logged in<br>]]>
+    </line>
+    <line>
+      <![CDATA[Successfully quited<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Newfile" duration-ms="36855" started-at="2018-09-04T07:04:10Z" finished-at="2018-09-04T07:04:47Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="36855" started-at="2018-09-04T07:04:10Z" finished-at="2018-09-04T07:04:47Z">
+      <class name="NewLogin">
+        <test-method status="PASS" signature="createDriver()[pri:0, instance:NewLogin@e25b2fe]" name="createDriver" is-config="true" duration-ms="2731" started-at="2018-09-04T12:34:10Z" finished-at="2018-09-04T12:34:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Path to Chrome Driver is set<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="webSiteLogin()[pri:0, instance:NewLogin@e25b2fe]" name="webSiteLogin" is-config="true" duration-ms="5640" started-at="2018-09-04T12:34:13Z" finished-at="2018-09-04T12:34:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Logged into the website<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- webSiteLogin -->
+        <test-method status="PASS" signature="newUser()[pri:0, instance:NewLogin@e25b2fe]" name="newUser" duration-ms="6084" started-at="2018-09-04T12:34:18Z" finished-at="2018-09-04T12:34:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Username and Password is taken from the property file<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Registered<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- newUser -->
+        <test-method status="PASS" signature="webSiteLogin()[pri:0, instance:NewLogin@e25b2fe]" name="webSiteLogin" is-config="true" duration-ms="3681" started-at="2018-09-04T12:34:24Z" finished-at="2018-09-04T12:34:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Logged into the website<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- webSiteLogin -->
+        <test-method status="PASS" signature="userLogOut()[pri:0, instance:NewLogin@e25b2fe]" name="userLogOut" duration-ms="9354" started-at="2018-09-04T12:34:28Z" finished-at="2018-09-04T12:34:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Username and Password is taken from the property file<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Logged in<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[Successfully LoggedOut<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- userLogOut -->
+        <test-method status="PASS" signature="webSiteLogin()[pri:0, instance:NewLogin@e25b2fe]" name="webSiteLogin" is-config="true" duration-ms="4751" started-at="2018-09-04T12:34:37Z" finished-at="2018-09-04T12:34:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Logged into the website<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- webSiteLogin -->
+        <test-method status="PASS" signature="userLogin()[pri:0, instance:NewLogin@e25b2fe]" name="userLogin" duration-ms="4495" started-at="2018-09-04T12:34:42Z" finished-at="2018-09-04T12:34:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Username and Password is taken from the property file<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[webElement is generated<br>]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Logged in<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:NewLogin@e25b2fe]" name="quit" is-config="true" duration-ms="101" started-at="2018-09-04T12:34:47Z" finished-at="2018-09-04T12:34:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully quited<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- NewLogin -->
+    </test> <!-- test1 -->
+  </suite> <!-- Newfile -->
+</testng-results>
